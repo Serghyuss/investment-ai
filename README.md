@@ -104,3 +104,5 @@ Separação entre lógica determinística e interpretação cognitiva
 
 Cálculos financeiros → feitos em Python (precisão)
 Análise → feita pela IA (contexto e explicação)
+
+<img width="1869" height="862" alt="Captura de tela 2026-04-21 171030" src="https://github.com/user-attachments/assets/80f7162e-e701-4063-adc3-51c7ea882453" />
